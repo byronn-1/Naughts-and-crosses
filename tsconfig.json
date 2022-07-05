@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "../original-app/test-2.js", "../original-app/Router.js", "../original-app/components"  ]
 }
