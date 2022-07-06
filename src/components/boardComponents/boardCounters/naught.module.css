@@ -1,0 +1,20 @@
+.outside_circle{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    position: relative;
+    background: #333;
+    opacity: 0.3;
+  }
+
+  .inside_circle{
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    position: absolute;
+    background: #ffffff;
+    top: 50%;
+    left: 50%;
+    z-index: 100;
+    margin: -8px 0 0 -8px;
+  }
