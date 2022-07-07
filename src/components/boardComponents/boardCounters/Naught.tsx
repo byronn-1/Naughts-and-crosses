@@ -5,7 +5,7 @@ const Naught = () => {
 
     return (
         <div  className={styles.outside_circle}>
-            <div className={styles.inside_circle}></div>
+            <div className={styles.inside_circle} />
         </div>
     )
 }

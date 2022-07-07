@@ -1,4 +1,4 @@
-import GameBoard from './components/boardComponents/board/gameBoard';
+import GameBoard from './components/boardComponents/board/GameBoard';
 import './App.css';
 import './App.css';
 
