@@ -1,4 +1,4 @@
-export type DropdownItem = {
+export type  = {
    XorO : string;
   };
   
